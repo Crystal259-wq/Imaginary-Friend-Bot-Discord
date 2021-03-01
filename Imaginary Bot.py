@@ -23,4 +23,4 @@ async def on_message(message):
   if message.content.startswith('*help'):
    await message.channel.send('Still In Development')
 # Run The Client
-client.run('ODE1ODU0NjM1NzE3MzYxNjY0.YDyd1w.bkKeaAfC9EARTCkL9Ni66ETAAPQ')
+client.run('ODE1ODU0NjM1NzE3MzYxNjY0.YDyd1w.k2fr2M8Lv7GRLCo6K6in9osr4wQ')
