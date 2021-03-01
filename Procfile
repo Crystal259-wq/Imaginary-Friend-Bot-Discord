@@ -1,1 +1,1 @@
-worker: python
+worker: python Imaginary Bot.py
